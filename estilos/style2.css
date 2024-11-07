@@ -17,6 +17,7 @@ main{
     margin: auto;
     padding: 10px;
     padding-bottom: 15px;
+    padding-right: 70px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.212);
     border-radius: 12px;
 }
